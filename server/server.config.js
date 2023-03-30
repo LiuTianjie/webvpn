@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
- */ 
-const BAREURL = 'https://yourdomain'
+ */
+const BAREURL = 'https://prox.liu28719976.workers.dev/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
